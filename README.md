@@ -6,32 +6,32 @@ Here are some photos for 3 signs classification (Right, Left, and Straight) to t
 This is meant to be a helpful structure for [RobotFramework-ImageDetection](https://github.com/Alpha-Centauri-00/robotframework-imagedetection) library.
 
     Data
-        ├── training
-        │   ├── right
-        │   │   ├── photo1.png
-        │   │   ├── photo2.png
-        │   │   └── photo2.png
-        │   ├── left
-        │   │   ├── photo1.png
-        │   │   ├── photo2.png
-        │   │   └── photo2.png
-        │   ├── Straight
-        │   │   ├── photo1.png
-        │   │   ├── photo2.png
-        │   │   └── photo2.png
-        ├── validation
-        │   ├── right
-        │   │   ├── new_photo1.png
-        │   │   ├── new_photo2.png
-        │   │   └── new_photo2.png
-        │   ├── left
-        │   │   ├── new_photo1.png
-        │   │   ├── new_photo2.png
-        │   │   └── new_photo2.png
-        │   ├── Straight
-        │   │   ├── new_photo1.png
-        │   │   ├── new_photo2.png
-        │   │   └── new_photo2.png
+    ├── training
+    │   ├── right
+    │   │   ├── photo1.png
+    │   │   ├── photo2.png
+    │   │   └── photo2.png
+    │   ├── left
+    │   │   ├── photo1.png
+    │   │   ├── photo2.png
+    │   │   └── photo2.png
+    │   ├── Straight
+    │   │   ├── photo1.png
+    │   │   ├── photo2.png
+    │   │   └── photo2.png
+    ├── validation
+    │   ├── right
+    │   │   ├── new_photo1.png
+    │   │   ├── new_photo2.png
+    │   │   └── new_photo2.png
+    │   ├── left
+    │   │   ├── new_photo1.png
+    │   │   ├── new_photo2.png
+    │   │   └── new_photo2.png
+    │   ├── Straight
+    │   │   ├── new_photo1.png
+    │   │   ├── new_photo2.png
+    │   │   └── new_photo2.png
 
 
 
