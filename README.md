@@ -1,7 +1,7 @@
 # Data-Example
 
 
-Here are some photos for 3 signs classification (Right, Left, and Straight).
+Here are some photos for 3 signs classification (Right, Left, and Straight) to train a new model.
 
 This is meant to be a helpful structure for [RobotFramework-ImageDetection](https://github.com/Alpha-Centauri-00/robotframework-imagedetection) library.
 
